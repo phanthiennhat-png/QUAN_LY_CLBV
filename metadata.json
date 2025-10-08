@@ -1,0 +1,5 @@
+{
+  "name": "QUẢN LÝ CLBV",
+  "description": "An application to manage quality criteria, score sub-items, upload evidence, and generate performance reports with visual charts. Users can define criteria groups, add weighted sub-items with various scoring types, and track compliance.",
+  "requestFramePermissions": []
+}
